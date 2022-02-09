@@ -117,6 +117,56 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "jimbo",
+      "species": "elephanth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "jimbo",
+      "species": "elephanth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "jimbo",
+      "species": "elephanth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "jimbo",
+      "species": "elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "jimbo",
+      "species": "elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
